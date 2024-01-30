@@ -31,7 +31,7 @@ Eğer projeye katkıda bulunmak istiyorsanız, lütfen bir fork oluşturun ve is
 
 ## İletişim
 
-Eğer herhangi bir sorunuz veya öneriniz varsa, lütfen şu adrese e-posta gönderin: example@email.com
+Eğer herhangi bir sorunuz veya öneriniz varsa, lütfen şu adrese e-posta gönderin: mbekir0202@email.com
 
 ## Lisans
 
